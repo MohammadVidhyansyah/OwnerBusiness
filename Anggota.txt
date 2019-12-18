@@ -1,0 +1,25 @@
+Nama aplikasi : BodyFit
+
+Owner : Kelompok 3
+Developer : Kelompok 6
+
+Anggota Owner :
+1901469473 - Mohammad Hafidz Vidhyansyah (MohammadVidhyansyah)
+2101635321 - Jonathan Chrisnaldy (joechrisnaldy)
+2101654440 - Aurellia Vania Y. B. (avania3008)
+2101714793 - Bayu Fadhlurrohman Hasmi (bayufdhsmi)
+
+Anggota Developer :
+2101650902 - Khoirurizki 
+2101658041 - Teddy sp 
+2101668156 - Panji kd 
+1701331091 - Austin rh 
+
+Pembuatan URS :
+
+Vidhy		: URS Bab 3 point 6 sampai 9
+Jonathan	: URS Bab 0 & 1
+Aurel		: URS Bab 3 point 1 sampai 5
+Bayu		: URS Bab 2
+
+
